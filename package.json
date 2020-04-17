@@ -1,0 +1,19 @@
+{
+  "name": "rgbled",
+  "version": "1.0.0",
+  "description": "raspbery pi rgb led kullanımı",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berkay3229/rgbled.git"
+  },
+  "author": "Berkay Orhan YAMAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berkay3229/rgbled/issues"
+  },
+  "homepage": "https://github.com/berkay3229/rgbled#readme"
+}
